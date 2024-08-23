@@ -1,0 +1,83 @@
+{
+  "reddit": [
+    {
+      "id": 1,
+      "title": "GoDaddy is sneakily injecting JavaScript into your website and how to stop it",
+      "link": "https://www.reddit.com/r/programming/comments/afgbww/godaddy_is_sneakily_injecting_javascript_into/"
+    },
+    {
+      "id": 2,
+      "title": "Why Medium is no longer the go-to platform for programming blogs",
+      "link": "https://www.reddit.com/r/programming/comments/adbu86/why_medium_is_no_longer_the_goto_platform_for/"
+    },
+    {
+      "id": 3,
+      "title": "Smooth transition, button morphs into register form",
+      "link": "https://www.reddit.com/r/webdev/comments/ak1vdk/smooth_transition_button_morphs_into_register_form/"
+    },
+    {
+      "id": 4,
+      "title": "JS everywhere",
+      "link": "https://www.reddit.com/r/ProgrammerHumor/comments/af6187/js_everywhere/"
+    },
+    {
+      "id": 5,
+      "title": "Netflix JavaScript Talks - Making Bandersnatch",
+      "link": "https://www.reddit.com/r/webdev/comments/am2k1x/netflix_javascript_talks_making_bandersnatch/"
+    }
+  ],
+  "hackerNews": [
+    {
+      "id": 1,
+      "title": "Slack Says It's Filed to Go Public",
+      "link": "https://www.bloomberg.com/news/articles/2019-02-04/messaging-platform-provider-slack-says-it-s-filed-to-go-public"
+    },
+    {
+      "id": 2,
+      "title": "MIT Hacker Tools: a lecture series on programmer tools",
+      "link": "https://hacker-tools.github.io/"
+    },
+    {
+      "id": 3,
+      "title": "If Software Is Funded from a Public Source, Its Code Should Be Open Source",
+      "link": "https://www.linuxjournal.com/content/if-software-funded-public-source-its-code-should-be-open-source"
+    },
+    {
+      "id": 4,
+      "title": "A Humility Training Exercise for Technical Interviewers",
+      "link": "https://triplebyte.com/blog/a-humility-training-exercise-for-technical-interviewers"
+    },
+    {
+      "id": 5,
+      "title": "Tesla to Buy Energy Storage Firm Maxwell Tech at $4.75 a Share",
+      "link": "https://www.bloomberg.com/news/articles/2019-02-04/tesla-to-buy-energy-storage-firm-maxwell-tech-at-4-75-shr-value"
+    },
+    {
+      "id": 6,
+      "title": "Cheap Chinese electric cars are coming to the US and Europe",
+      "link": "https://qz.com/1541380/the-cheapest-chinese-electric-cars-are-coming-to-the-us-and-europe/"
+    }
+  ],
+  "medium": [
+    {
+      "id": 1,
+      "title": " 10 Interview Questions Every JavaScript Developer Should Know",
+      "link": "https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95?source=search_post---------1"
+    },
+    {
+      "id": 2,
+      "title": "A Study Plan To Cure JavaScript Fatigue",
+      "link": "https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1?source=search_post---------2"
+    },
+    {
+      "id": 3,
+      "title": "The Cost Of JavaScript In 2018",
+      "link": "https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4?source=search_post---------3"
+    },
+    {
+      "id": 4,
+      "title": "Modern JavaScript Explained For Dinosaurs",
+      "link": "https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70?source=search_post---------5"
+    }
+  ]
+}
